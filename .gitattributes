@@ -1,0 +1,4 @@
+opencv filter=lfs diff=lfs merge=lfs -text
+*.so filter=lfs diff=lfs merge=lfs -text
+ios/Versions/A/opencv2rr filter=lfs diff=lfs merge=lfs -text
+ios/Versions/A/opencv2 filter=lfs diff=lfs merge=lfs -text
